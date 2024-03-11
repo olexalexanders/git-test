@@ -5,3 +5,4 @@ console.log(`Result = ${result}`);
 console.log('Juz');
 
 console.log('1');
+console.log('2');
