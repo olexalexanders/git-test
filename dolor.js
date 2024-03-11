@@ -3,4 +3,6 @@ console.log('Calculate');
 console.log(`Result = ${result}`);
 console.log('Juz');
 console.log('update');
+console.log('Update 2');
+
 
