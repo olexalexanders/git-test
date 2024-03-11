@@ -1,0 +1,2 @@
+const TROTTLE_TIME = 600;
+const IP_TIME_LOCK = 1000;
